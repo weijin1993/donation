@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">donation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome Mr. Wei</string>
+    <string name="showMoney">How much dollers would you like to donate?</string>
+    <string name="donateButton">donate</string>
+    <string name="PayPal">PayPal Paying</string>
+    <string name="Direct">Direct Paying</string>
+    <string name="menuSettings">Direct Paying</string>
+	<string name="menuReport">Report</string>
+	<string name="reportTitle">Report</string>
+	<string name="donateTitle">Report</string>
+</resources>
