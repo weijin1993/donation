@@ -16,6 +16,7 @@ import android.widget.Toast;
 import app.activities.R;
 
 public class Donate extends Activity {
+	//test push
 	  private int          totalDonated = 0;
 	  private Button       donateButton;
 	  private RadioGroup   paymentMethod;
