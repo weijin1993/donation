@@ -16,8 +16,7 @@ import android.widget.Toast;
 import app.activities.R;
 
 public class Donate extends Activity {
-	//test push
-	//tttttttt
+
 	  private int          totalDonated = 0;
 	  private Button       donateButton;
 	  private RadioGroup   paymentMethod;
@@ -25,7 +24,7 @@ public class Donate extends Activity {
 	  private NumberPicker amountPicker;
 	  private TextView     amountText;
 	  private TextView     amountTotal;
-	  private int total = 0;
+
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
